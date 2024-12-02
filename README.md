@@ -1,6 +1,6 @@
 # Building an Online Grocery Delivery Web Application with Flask and MySQL
 
-*By bharathkumar*
+*By Monisha*
 
 ---
 
